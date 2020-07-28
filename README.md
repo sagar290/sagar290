@@ -1,16 +1,25 @@
-### Hi there 👋
+# Sagar Dash
 
-<!--
-**sagar290/sagar290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DSagarPcl1339&suffix=%20Followers)](https://twitter.com/SagarPcl1339)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sagardash1/)
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sagar.dash1/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/sagar.dash1)
 
-Here are some ideas to get you started:
+:wave: Hi there, This is Sagar. I'm 25 years old, self-taught, independent in thinking, currently living in Dhaka, Bangladesh. I love to work with new technologies, explore new challenges and watch Movie && Anime.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## {...} My Stack
+
+```json
+{
+   "languages":["PHP", "Python", "JavaScript", "TypeScript", "GO", "C", "Shell script", "SQL"],
+   "backend": ["NodeJS", "Laravel", "ExpressJS", "Django"],
+   "frontend":["Angular", "VueJS"],
+   "database":["Mysql", "MongoDb", "DynamoDb", "PouchDb"],
+   "devops":["Docker", "Jenkins", "Consul", "Shell script", "haproxy", "Nginx", "apache2"]
+}
+```
+
+- 🔭 I’m currently working on 10 Minute School 
+- 💬 Ask me about anything
+- ⚡ Fun fact: Trying to lose weight without dieting 
+

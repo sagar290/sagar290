@@ -19,7 +19,7 @@
 }
 ```
 
-- 🔭 I’m currently working for 10 Minute School 
+- 🔭 I’m currently working with 10 Minute School 
 - 💬 Ask me about anything
 - ⚡ Fun fact: Trying to lose weight without dieting 
 

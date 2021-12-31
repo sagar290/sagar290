@@ -23,3 +23,4 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: Trying to lose weight without dieting 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar290&layout=compact)

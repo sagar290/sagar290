@@ -23,4 +23,7 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: Trying to lose weight without dieting 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar290&show_icons=true&theme=radical&locale=en" alt="sagar290" /></p>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar290&layout=compact)

@@ -1,6 +1,6 @@
 # Sagar Dash
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar290&show_icons=true&theme=radical&locale=en" alt="sagar290" /></p>
+
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sagardash1/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sagar.dash1/)

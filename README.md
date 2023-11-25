@@ -1,5 +1,7 @@
 # Sagar Dash
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sagar290&color=dc143c&label=Views&color=lightgrey&style=flat" alt="ssi-anik" />
+</p>
 
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sagardash1/)

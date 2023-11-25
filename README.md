@@ -26,6 +26,6 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: Trying to lose weight without dieting 
 
-[Check out my latest blog post](https://sagardash.me)
+[Check my latest blog posts](https://sagardash.me)
 
 

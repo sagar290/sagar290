@@ -1,6 +1,6 @@
 # Sagar Dash
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sagar290&color=dc143c&label=Views&color=lightgrey&style=flat" alt="ssi-anik" />
+  <img src="https://komarev.com/ghpvc/?username=sagar290&color=dc143c&label=Views&color=lightgrey&style=flat" alt="sagar290" />
 </p>
 
 
